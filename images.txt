@@ -1,1 +1,1 @@
-nginx
+circleci/jdk8
