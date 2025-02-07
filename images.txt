@@ -1,1 +1,1 @@
-store/elastic/filebeat:8.13.0
+chainguard/filebeat:8.13.0
