@@ -1,1 +1,1 @@
-ringcentral/jdk:8 --platform=linux/arm64
+chainguard/jdk:8 --platform=linux/arm64
