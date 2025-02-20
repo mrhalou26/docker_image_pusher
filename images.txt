@@ -1,3 +1,1 @@
-ringcentral/jdk:8
-#支持指定架构
---platform=linux/arm64 xiaovaliu/alist
+ringcentral/jdk:8 --platform=linux/arm64
