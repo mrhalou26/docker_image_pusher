@@ -1,1 +1,1 @@
-chainguard/jdk:1.8 --platform=linux/arm64
+primetoninc/jdk:1.8
