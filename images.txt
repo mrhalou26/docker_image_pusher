@@ -1,1 +1,1 @@
-minio/minio:latest
+docker.io/bitnami/kafka:3.5
