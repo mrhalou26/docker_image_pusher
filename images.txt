@@ -1,1 +1,1 @@
-docker.io/bitnami/kafka:3.5
+openeuler/openeuler:25.03
