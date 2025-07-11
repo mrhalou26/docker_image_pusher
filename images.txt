@@ -1,1 +1,1 @@
-docker pull centos:centos7
+docker pull centos:7
