@@ -1,1 +1,1 @@
-openeuler/openeuler:24.03
+docker pull centos:centos7
