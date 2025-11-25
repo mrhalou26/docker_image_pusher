@@ -1,2 +1,2 @@
 #--platform=linux/arm64 mysql:5.7
-centos:7
+clickhouse/clickhouse-server
