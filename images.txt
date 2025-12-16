@@ -1,1 +1,1 @@
---platform=linux/arm64 onlyoffice
+--platform=linux/arm64 onlyoffice/documentserver
