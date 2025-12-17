@@ -1,1 +1,1 @@
---platform=linux/arm64 bitnami/postgresql:17
+--platform=linux/arm64 postgres:17
