@@ -1,1 +1,1 @@
---platform=linux/arm64 onlyoffice/documentserver
+--platform=linux/arm64 bitnami/postgresql:17
