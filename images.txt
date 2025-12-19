@@ -1,9 +1,9 @@
 #--platform=linux/arm64 postgres:17
-prom/prometheus:latest
-prom/alertmanager:latest
-prom/node-exporter:latest
-grafana/grafana:master
-grafana/loki
-sipcapture/heplify-server
-sipcapture/webapp
+prom/prometheus:v2.42.0
+prom/alertmanager:v0.23.0
+prom/node-exporter:v1.2.2
+grafana/grafana:8.4.2
+grafana/loki:main-9467a34
+sipcapture/heplify-server:1.30
+sipcapture/webapp:latest
 postgres:11-alpine
