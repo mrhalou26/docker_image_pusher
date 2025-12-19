@@ -1,1 +1,9 @@
---platform=linux/arm64 postgres:17
+#--platform=linux/arm64 postgres:17
+prom/prometheus:latest
+prom/alertmanager:latest
+prom/node-exporter:latest
+grafana/grafana:master
+grafana/loki
+sipcapture/heplify-server
+sipcapture/webapp
+postgres:11-alpine
