@@ -5,4 +5,11 @@
 #calico/kube-controllers:v3.26.1
 
 
-nginx:1.24-alpine
+busybox:latest
+prometheus/alertmanager:v0.30.0
+prometheus-operator/admission-webhook:latest
+jkroepke/kube-webhook-certgen:1.7.4
+prometheus-operator/prometheus-operator:latest
+prometheus-operator/prometheus-config-reloader:latest
+prometheus/prometheus:v3.8.1
+thanos/thanos:v0.40.1
