@@ -6,10 +6,10 @@
 
 
 busybox:latest
-prometheus/alertmanager:v0.30.0
-prometheus-operator/admission-webhook:latest
+prom/alertmanager:v0.30.0
+networkservicemesh/admission-webhook:latest
 jkroepke/kube-webhook-certgen:1.7.4
-prometheus-operator/prometheus-operator:latest
-prometheus-operator/prometheus-config-reloader:latest
-prometheus/prometheus:v3.8.1
-thanos/thanos:v0.40.1
+kubesphere/prometheus-operator:latest
+kubesphere/prometheus-config-reloader:latest
+prom/prometheus:v3.8.1
+thanosio/thanos:v0.40.1
