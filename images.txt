@@ -10,6 +10,6 @@ prom/alertmanager:v0.30.0
 networkservicemesh/admission-webhook:latest
 jkroepke/kube-webhook-certgen:1.7.4
 kubesphere/prometheus-operator:v0.68.1
-kubesphere/prometheus-config-reloader:0.55.1
+kubesphere/prometheus-config-reloader:v0.55.1
 prom/prometheus:v3.8.1
 thanosio/thanos:v0.40.1
