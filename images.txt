@@ -1,17 +1,2 @@
 #--platform=linux/arm64 postgres:17
-
-#calico/cni:v3.26.1
-#calico/node:v3.26.1
-#calico/kube-controllers:v3.26.1
-
-
-#busybox:latest
-#prom/alertmanager:v0.30.0
-#networkservicemesh/admission-webhook:latest
-#jkroepke/kube-webhook-certgen:1.7.4
-#kubesphere/prometheus-operator:v0.68.1
-#kubesphere/prometheus-config-reloader:v0.55.1
-#prom/prometheus:v3.8.1
-#thanosio/thanos:v0.40.1
-
 kubesphere/kube-state-metrics:v2.15.0
