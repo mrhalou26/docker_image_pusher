@@ -14,4 +14,4 @@
 #prom/prometheus:v3.8.1
 #thanosio/thanos:v0.40.1
 
-kube-state-metrics:3.8.1
+kubesphere/kube-state-metrics:v2.15.0
