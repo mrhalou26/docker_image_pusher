@@ -1,2 +1,4 @@
 #--platform=linux/arm64 postgres:17
-kubesphere/kube-state-metrics:v2.15.0
+#kubesphere/kube-state-metrics:v2.15.0
+
+grafana/grafana:12.4.0-20766360996
