@@ -1,4 +1,4 @@
 #--platform=linux/arm64 postgres:17
 #kubesphere/kube-state-metrics:v2.15.0
 
-apache/kafka:3.7.0
+mongo:6.0.27
