@@ -1,4 +1,5 @@
 #--platform=linux/arm64 postgres:17
 #kubesphere/kube-state-metrics:v2.15.0
 
-python:3.9-slim
+prom/prometheus:v2.45.0
+grafana/grafana:10.0.0
