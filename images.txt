@@ -1,4 +1,4 @@
 #--platform=linux/arm64 postgres:17
 #kubesphere/kube-state-metrics:v2.15.0
 
-clickhouse/clickhouse-server:23.3.20.28
+clickhouse/clickhouse-server:latest
